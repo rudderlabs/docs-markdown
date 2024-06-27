@@ -8,7 +8,7 @@ With Profiles, data teams can efficiently resolve identities and create user fea
 
 The following self-guided tour shows how to use Profiles:
 
-<div style={{ position: 'relative', paddingBottom: 'calc(68.98305084745763% + 41px)', height: 0}}><iframe src="https://demo.arcade.software/OAaJFyRn1pkMru7HVJr3?embed" title="QuickStart Profiles" frameborder="0" loading="lazy" webkitallowfullscreen mozallowfullscreen allowFullScreen style={{"position":"absolute","top":"0","left":"0","width":"100%","height":"100%","colorScheme":"light"}}></iframe></div>
+<div style={{ position: 'relative', paddingBottom: 'calc(68.98305084745763% + 41px)', height: 0}}><iframe src="https://demo.arcade.software/OAaJFyRn1pkMru7HVJr3?embed" title="QuickStart Profiles" frameborder="0" loading="lazy" allowFullScreen style={{"position":"absolute","top":"0","left":"0","width":"100%","height":"100%","colorScheme":"light"}}></iframe></div>
 
 ## Highlights
 
